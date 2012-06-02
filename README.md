@@ -1,5 +1,5 @@
-Book Elf (http://bookelf.org)
+Book Elf
 ===============================
-
 Books for Schools
+http://bookelf.org
 
