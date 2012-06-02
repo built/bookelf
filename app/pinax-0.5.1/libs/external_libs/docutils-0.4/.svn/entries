@@ -1,163 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-HISTORY.txt
-file
-
-
-
-add
-
-test
-dir
-
-
-
-add
-
-RELEASE-NOTES.txt
-file
-
-
-
-add
-
-FAQ.txt
-file
-
-
-
-add
-
-docutils
-dir
-
-
-
-add
-
-COPYING.txt
-file
-
-
-
-add
-
-setup.py
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-docs
-dir
-
-
-
-add
-
-install.py
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-tools
-dir
-
-
-
-add
-
-roman.py
-file
-
-
-
-add
-
-licenses
-dir
-
-
-
-add
-
-roman.pyc
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-extras
-dir
-
-
-
-add
-
-THANKS.txt
-file
-
-
-
-add
-
-PKG-INFO
-file
-
-
-
-add
-
-README.txt
-file
-
-
-
-add
-
-BUGS.txt
-file
-
-
-
-add
-

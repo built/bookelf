@@ -1,107 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/local_apps
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-zwitschern
-dir
-
-
-
-add
-
-django_openidauth
-dir
-
-
-
-add
-
-blog
-dir
-
-
-
-add
-
-profiles
-dir
-
-
-
-add
-
-basic_profiles
-dir
-
-
-
-add
-
-bbauth
-dir
-
-
-
-add
-
-analytics
-dir
-
-
-
-add
-
-tribes
-dir
-
-
-
-add
-
-projects
-dir
-
-
-
-add
-
-authsub
-dir
-
-
-
-add
-
-misc
-dir
-
-
-
-add
-
-account
-dir
-
-
-
-add
-
-django_openidconsumer
-dir
-
-
-
-add
-

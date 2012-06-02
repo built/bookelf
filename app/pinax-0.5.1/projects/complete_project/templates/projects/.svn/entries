@@ -1,93 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/projects/complete_project/templates/projects
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-members_status.html
-file
-
-
-
-add
-
-topic.html
-file
-
-
-
-add
-
-topics.html
-file
-
-
-
-add
-
-task.html
-file
-
-
-
-add
-
-create.html
-file
-
-
-
-add
-
-user_tasks.html
-file
-
-
-
-add
-
-tasks.html
-file
-
-
-
-add
-
-project.html
-file
-
-
-
-add
-
-your_projects.html
-file
-
-
-
-add
-
-projects.html
-file
-
-
-
-add
-
-base.html
-file
-
-
-
-add
-

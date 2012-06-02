@@ -1,100 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/projects/complete_project/templates/account
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-timezone_change.html
-file
-
-
-
-add
-
-password_reset_message.txt
-file
-
-
-
-add
-
-other_services.html
-file
-
-
-
-add
-
-password_reset.html
-file
-
-
-
-add
-
-signup.html
-file
-
-
-
-add
-
-email.html
-file
-
-
-
-add
-
-password_change.html
-file
-
-
-
-add
-
-language_change.html
-file
-
-
-
-add
-
-login.html
-file
-
-
-
-add
-
-logout.html
-file
-
-
-
-add
-
-password_reset_done.html
-file
-
-
-
-add
-
-base.html
-file
-
-
-
-add
-

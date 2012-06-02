@@ -1,86 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/local_apps/projects/templates/notification
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-projects_deleted
-dir
-
-
-
-add
-
-projects_new_topic
-dir
-
-
-
-add
-
-projects_task_change
-dir
-
-
-
-add
-
-projects_task_assignment
-dir
-
-
-
-add
-
-projects_added_as_member
-dir
-
-
-
-add
-
-projects_new_task
-dir
-
-
-
-add
-
-projects_topic_response
-dir
-
-
-
-add
-
-projects_new_member
-dir
-
-
-
-add
-
-projects_task_comment
-dir
-
-
-
-add
-
-projects_task_status
-dir
-
-
-
-add
-

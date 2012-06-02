@@ -1,72 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/Genshi-0.5.1/examples/basic
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-layout.html
-file
-
-
-
-add
-
-test.html
-file
-
-
-
-add
-
-kidrun.py
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-layout.kid
-file
-
-
-
-add
-
-test.kid
-file
-
-
-
-add
-
-run.py
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-

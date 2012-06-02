@@ -1,51 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/tools/editors/emacs/tests
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-tests-basic.el
-file
-
-
-
-add
-
-tests-runner.el
-file
-
-
-
-add
-
-tests-adjust-section.el
-file
-
-
-
-add
-
-Makefile
-file
-
-
-
-add
-
-README
-file
-
-
-
-add
-

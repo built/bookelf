@@ -1,1136 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/python-openid-2.1.1/doc
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-openid.extension-module.html
-file
-
-
-
-add
-
-indices.html
-file
-
-
-
-add
-
-openid.message-module.html
-file
-
-
-
-add
-
-openid.server.server.OpenIDResponse-class.html
-file
-
-
-
-add
-
-toc-openid.kvform-module.html
-file
-
-
-
-add
-
-openid.server.server.VersionError-class.html
-file
-
-
-
-add
-
-openid.server.server.EncodingError-class.html
-file
-
-
-
-add
-
-toc-openid.consumer.discover-module.html
-file
-
-
-
-add
-
-openid.message.NamespaceMap-class.html
-file
-
-
-
-add
-
-openid.server.trustroot.TrustRoot-class.html
-file
-
-
-
-add
-
-openid.extension.Extension-class.html
-file
-
-
-
-add
-
-toc-openid.consumer.consumer-module.html
-file
-
-
-
-add
-
-toc-openid.dh-module.html
-file
-
-
-
-add
-
-toc-openid.consumer-module.html
-file
-
-
-
-add
-
-openid.consumer.consumer.AuthRequest-class.html
-file
-
-
-
-add
-
-toc-openid.store.interface-module.html
-file
-
-
-
-add
-
-toc-openid.yadis.services-module.html
-file
-
-
-
-add
-
-toc-openid.extensions-module.html
-file
-
-
-
-add
-
-trees.html
-file
-
-
-
-add
-
-openid.yadis.discover-module.html
-file
-
-
-
-add
-
-openid.store.filestore-module.html
-file
-
-
-
-add
-
-toc-openid.server-module.html
-file
-
-
-
-add
-
-toc-openid.store.sqlstore-module.html
-file
-
-
-
-add
-
-openid.dh-module.html
-file
-
-
-
-add
-
-openid.consumer.consumer.SuccessResponse-class.html
-file
-
-
-
-add
-
-openid.extensions-module.html
-file
-
-
-
-add
-
-openid.server.server.DiffieHellmanSHA256ServerSession-class.html
-file
-
-
-
-add
-
-openid.extensions.ax-module.html
-file
-
-
-
-add
-
-toc-openid.extensions.pape-module.html
-file
-
-
-
-add
-
-openid.server.server-module.html
-file
-
-
-
-add
-
-toc-openid.store.nonce-module.html
-file
-
-
-
-add
-
-exceptions.Exception-class.html
-file
-
-
-
-add
-
-toc-openid.yadis.etxrd-module.html
-file
-
-
-
-add
-
-toc-openid.cryptutil-module.html
-file
-
-
-
-add
-
-markupbase.ParserBase-class.html
-file
-
-
-
-add
-
-toc-openid.sreg-module.html
-file
-
-
-
-add
-
-openid.yadis.xrires-module.html
-file
-
-
-
-add
-
-toc-openid.extensions.ax-module.html
-file
-
-
-
-add
-
-openid.store.memstore.MemoryStore-class.html
-file
-
-
-
-add
-
-toc-openid.yadis.accept-module.html
-file
-
-
-
-add
-
-openid.store.interface-module.html
-file
-
-
-
-add
-
-openid.extensions.ax.FetchResponse-class.html
-file
-
-
-
-add
-
-toc-openid.server.server-module.html
-file
-
-
-
-add
-
-openid.consumer.consumer.Consumer-class.html
-file
-
-
-
-add
-
-openid.server.server.Decoder-class.html
-file
-
-
-
-add
-
-openid.extensions.ax.StoreResponse-class.html
-file
-
-
-
-add
-
-openid.extensions.pape.Response-class.html
-file
-
-
-
-add
-
-openid.store.filestore.FileOpenIDStore-class.html
-file
-
-
-
-add
-
-openid.yadis.xrires.ProxyResolver-class.html
-file
-
-
-
-add
-
-exceptions.ValueError-class.html
-file
-
-
-
-add
-
-__builtin__.object-class.html
-file
-
-
-
-add
-
-openid.association-module.html
-file
-
-
-
-add
-
-openid.server.server.OpenIDRequest-class.html
-file
-
-
-
-add
-
-openid.extensions.pape-module.html
-file
-
-
-
-add
-
-toc-openid-module.html
-file
-
-
-
-add
-
-toc.html
-file
-
-
-
-add
-
-openid.message.Message-class.html
-file
-
-
-
-add
-
-openid.server.trustroot-module.html
-file
-
-
-
-add
-
-openid.store-module.html
-file
-
-
-
-add
-
-openid.server.server.CheckIDRequest-class.html
-file
-
-
-
-add
-
-toc-openid.yadis.xri-module.html
-file
-
-
-
-add
-
-openid.fetchers.HTTPFetcher-class.html
-file
-
-
-
-add
-
-openid.fetchers-module.html
-file
-
-
-
-add
-
-openid.consumer.discover-module.html
-file
-
-
-
-add
-
-openid.server.server.Encoder-class.html
-file
-
-
-
-add
-
-openid.server.server.UntrustedReturnURL-class.html
-file
-
-
-
-add
-
-toc-openid.store-module.html
-file
-
-
-
-add
-
-openid.consumer.consumer-module.html
-file
-
-
-
-add
-
-__builtin__.type-class.html
-file
-
-
-
-add
-
-openid.store.memstore-module.html
-file
-
-
-
-add
-
-openid.server.server.WebResponse-class.html
-file
-
-
-
-add
-
-openid.store.memstore.ServerAssocs-class.html
-file
-
-
-
-add
-
-help.html
-file
-
-
-
-add
-
-openid.yadis.filters.CompoundFilter-class.html
-file
-
-
-
-add
-
-openid.extensions.ax.StoreRequest-class.html
-file
-
-
-
-add
-
-openid.extensions.pape.Request-class.html
-file
-
-
-
-add
-
-toc-openid.yadis.parsehtml-module.html
-file
-
-
-
-add
-
-toc-openid.extension-module.html
-file
-
-
-
-add
-
-openid.sreg-module.html
-file
-
-
-
-add
-
-openid-module.html
-file
-
-
-
-add
-
-openid.store.sqlstore.SQLStore-class.html
-file
-
-
-
-add
-
-openid.kvform-module.html
-file
-
-
-
-add
-
-openid.server.server.ProtocolError-class.html
-file
-
-
-
-add
-
-openid.yadis.accept-module.html
-file
-
-
-
-add
-
-openid.association.Association-class.html
-file
-
-
-
-add
-
-toc-openid.yadis.constants-module.html
-file
-
-
-
-add
-
-openid.yadis.manager.Discovery-class.html
-file
-
-
-
-add
-
-toc-openid.yadis.discover-module.html
-file
-
-
-
-add
-
-openid.fetchers.HTTPError-class.html
-file
-
-
-
-add
-
-exceptions.BaseException-class.html
-file
-
-
-
-add
-
-toc-openid.server.trustroot-module.html
-file
-
-
-
-add
-
-toc-openid.urinorm-module.html
-file
-
-
-
-add
-
-openid.fetchers.HTTPResponse-class.html
-file
-
-
-
-add
-
-openid.yadis.discover.DiscoveryFailure-class.html
-file
-
-
-
-add
-
-openid.yadis.manager.YadisServiceManager-class.html
-file
-
-
-
-add
-
-openid.extensions.sreg.SRegRequest-class.html
-file
-
-
-
-add
-
-toc-openid.fetchers-module.html
-file
-
-
-
-add
-
-openid.consumer.html_parse-module.html
-file
-
-
-
-add
-
-openid.yadis.services-module.html
-file
-
-
-
-add
-
-toc-openid.oidutil-module.html
-file
-
-
-
-add
-
-toc-openid.association-module.html
-file
-
-
-
-add
-
-openid.cryptutil-module.html
-file
-
-
-
-add
-
-openid.yadis.filters.TransformFilterMaker-class.html
-file
-
-
-
-add
-
-openid.dh.DiffieHellman-class.html
-file
-
-
-
-add
-
-openid.yadis.filters.BasicServiceEndpoint-class.html
-file
-
-
-
-add
-
-openid.store.sqlstore.SQLiteStore-class.html
-file
-
-
-
-add
-
-openid.server.server.MalformedTrustRoot-class.html
-file
-
-
-
-add
-
-openid.server-module.html
-file
-
-
-
-add
-
-toc-everything.html
-file
-
-
-
-add
-
-openid.yadis.parsehtml-module.html
-file
-
-
-
-add
-
-openid.store.sqlstore-module.html
-file
-
-
-
-add
-
-epydoc.css
-file
-
-
-
-add
-
-openid.consumer.consumer.CancelResponse-class.html
-file
-
-
-
-add
-
-openid.consumer.consumer.FailureResponse-class.html
-file
-
-
-
-add
-
-openid.yadis.discover.DiscoveryResult-class.html
-file
-
-
-
-add
-
-frames.html
-file
-
-
-
-add
-
-openid.server.server.AssociateRequest-class.html
-file
-
-
-
-add
-
-toc-openid.extensions.sreg-module.html
-file
-
-
-
-add
-
-openid.yadis.manager-module.html
-file
-
-
-
-add
-
-openid.server.server.MalformedReturnURL-class.html
-file
-
-
-
-add
-
-openid.fetchers.HTTPFetchingError-class.html
-file
-
-
-
-add
-
-openid.yadis.constants-module.html
-file
-
-
-
-add
-
-openid.server.server.SigningEncoder-class.html
-file
-
-
-
-add
-
-openid.yadis.parsehtml.MetaNotFound-class.html
-file
-
-
-
-add
-
-openid.urinorm-module.html
-file
-
-
-
-add
-
-openid.server.server.PlainTextServerSession-class.html
-file
-
-
-
-add
-
-exceptions.StandardError-class.html
-file
-
-
-
-add
-
-HTMLParser.HTMLParser-class.html
-file
-
-
-
-add
-
-openid.server.server.AlreadySigned-class.html
-file
-
-
-
-add
-
-toc-openid.yadis.manager-module.html
-file
-
-
-
-add
-
-toc-openid.message-module.html
-file
-
-
-
-add
-
-openid.yadis-module.html
-file
-
-
-
-add
-
-openid.server.server.Signatory-class.html
-file
-
-
-
-add
-
-openid.oidutil-module.html
-file
-
-
-
-add
-
-openid.yadis.xri-module.html
-file
-
-
-
-add
-
-openid.yadis.filters-module.html
-file
-
-
-
-add
-
-openid.server.server.NoReturnToError-class.html
-file
-
-
-
-add
-
-openid.consumer.discover.OpenIDServiceEndpoint-class.html
-file
-
-
-
-add
-
-openid.extensions.ax.FetchRequest-class.html
-file
-
-
-
-add
-
-openid.consumer.consumer.SetupNeededResponse-class.html
-file
-
-
-
-add
-
-openid.server.server.DiffieHellmanSHA1ServerSession-class.html
-file
-
-
-
-add
-
-openid.consumer-module.html
-file
-
-
-
-add
-
-openid.extensions.sreg.SRegResponse-class.html
-file
-
-
-
-add
-
-toc-openid.yadis-module.html
-file
-
-
-
-add
-
-openid.yadis.filters.IFilter-class.html
-file
-
-
-
-add
-
-openid.store.nonce-module.html
-file
-
-
-
-add
-
-openid.yadis.etxrd-module.html
-file
-
-
-
-add
-
-openid.extensions.sreg-module.html
-file
-
-
-
-add
-
-openid.server.server.Server-class.html
-file
-
-
-
-add
-
-openid.server.server.CheckAuthRequest-class.html
-file
-
-
-
-add
-
-toc-openid.yadis.filters-module.html
-file
-
-
-
-add
-
-openid.store.interface.OpenIDStore-class.html
-file
-
-
-
-add
-
-openid.store.sqlstore.PostgreSQLStore-class.html
-file
-
-
-
-add
-
-index.html
-file
-
-
-
-add
-
-toc-openid.yadis.xrires-module.html
-file
-
-
-
-add
-
-openid.store.sqlstore.MySQLStore-class.html
-file
-
-
-
-add
-
-toc-openid.store.memstore-module.html
-file
-
-
-
-add
-
-openid.association.SessionNegotiator-class.html
-file
-
-
-
-add
-
-toc-openid.store.filestore-module.html
-file
-
-
-
-add
-
-toc-openid.consumer.html_parse-module.html
-file
-
-
-
-add
-

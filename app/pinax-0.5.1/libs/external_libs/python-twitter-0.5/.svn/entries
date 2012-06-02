@@ -1,128 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/python-twitter-0.5
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-LICENSE
-file
-
-
-
-add
-
-doc
-dir
-
-
-
-add
-
-setup.py
-file
-
-
-
-add
-
-CHANGES
-file
-
-
-
-add
-
-COPYING
-file
-
-
-
-add
-
-twitter_test.py
-file
-
-
-
-add
-
-testdata
-dir
-
-
-
-add
-
-twitter.py
-file
-
-
-
-add
-
-PKG-INFO
-file
-
-
-
-add
-
-twitter.pyc
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-python_twitter.egg-info
-dir
-
-
-
-add
-
-README
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-examples
-dir
-
-
-
-add
-
-setup.cfg
-file
-
-
-
-add
-

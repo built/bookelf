@@ -1,72 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/python-yadis-1.1.0
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-doc
-dir
-
-
-
-add
-
-setup.py
-file
-
-
-
-add
-
-admin
-dir
-
-
-
-add
-
-yadis
-dir
-
-
-
-add
-
-PKG-INFO
-file
-
-
-
-add
-
-README
-file
-
-
-
-add
-
-examples
-dir
-
-
-
-add
-
-setup.cfg
-file
-
-
-
-add
-

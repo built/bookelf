@@ -1,93 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/elementtree-1.2.6/docs
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-pythondoc-elementtree.SimpleXMLTreeBuilder.html
-file
-
-
-
-add
-
-pythondoc-elementtree.ElementPath.html
-file
-
-
-
-add
-
-pythondoc-elementtree.SimpleXMLWriter.html
-file
-
-
-
-add
-
-pythondoc-elementtree.XMLTreeBuilder.html
-file
-
-
-
-add
-
-pythondoc-elementtree.ElementTree.html
-file
-
-
-
-add
-
-pythondoc-elementtree.SgmlopXMLTreeBuilder.html
-file
-
-
-
-add
-
-index.html
-file
-
-
-
-add
-
-pythondoc-elementtree.TidyTools.html
-file
-
-
-
-add
-
-pythondoc-elementtree.HTMLTreeBuilder.html
-file
-
-
-
-add
-
-effbot.css
-file
-
-
-
-add
-
-pythondoc-elementtree.ElementInclude.html
-file
-
-
-
-add
-

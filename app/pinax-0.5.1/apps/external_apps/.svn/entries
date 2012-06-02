@@ -1,226 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-tagging
-dir
-
-
-
-add
-
-django_extensions
-dir
-
-
-
-add
-
-app_plugins
-dir
-
-
-
-add
-
-photologue
-dir
-
-
-
-add
-
-__init__.py
-file
-
-
-
-add
-
-notification
-dir
-
-
-
-add
-
-threadedcomments
-dir
-
-
-
-add
-
-bookmarks
-dir
-
-
-
-add
-
-pagination
-dir
-
-
-
-add
-
-friends
-dir
-
-
-
-add
-
-oembed
-dir
-
-
-
-add
-
-things
-dir
-
-
-
-add
-
-ajax_validation
-dir
-
-
-
-add
-
-swaps
-dir
-
-
-
-add
-
-emailconfirmation
-dir
-
-
-
-add
-
-feedutil
-dir
-
-
-
-add
-
-sources.txt
-file
-
-
-
-add
-
-crashlog
-dir
-
-
-
-add
-
-wiki
-dir
-
-
-
-add
-
-dbtemplates
-dir
-
-
-
-add
-
-voting
-dir
-
-
-
-add
-
-gravatar
-dir
-
-
-
-add
-
-messages
-dir
-
-
-
-add
-
-robots
-dir
-
-
-
-add
-
-flag
-dir
-
-
-
-add
-
-djangologging
-dir
-
-
-
-add
-
-mailer
-dir
-
-
-
-add
-
-announcements
-dir
-
-
-
-add
-
-timezones
-dir
-
-
-
-add
-
-avatar
-dir
-
-
-
-add
-

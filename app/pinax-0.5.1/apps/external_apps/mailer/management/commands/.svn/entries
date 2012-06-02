@@ -1,37 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/mailer/management/commands
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-send_mail.py
-file
-
-
-
-add
-
-__init__.py
-file
-
-
-
-add
-
-retry_deferred.py
-file
-
-
-
-add
-

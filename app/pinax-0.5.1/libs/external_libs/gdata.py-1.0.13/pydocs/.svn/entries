@@ -1,205 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/gdata.py-1.0.13/pydocs
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-gdata.codesearch.service.html
-file
-
-
-
-add
-
-gdata.spreadsheet.text_db.html
-file
-
-
-
-add
-
-gdata.codesearch.html
-file
-
-
-
-add
-
-gdata.service.html
-file
-
-
-
-add
-
-gdata.auth.html
-file
-
-
-
-add
-
-gdata.html
-file
-
-
-
-add
-
-gdata.apps.service.html
-file
-
-
-
-add
-
-gdata.apps.html
-file
-
-
-
-add
-
-gdata.spreadsheet.service.html
-file
-
-
-
-add
-
-gdata.spreadsheet.html
-file
-
-
-
-add
-
-gdata.calendar.service.html
-file
-
-
-
-add
-
-gdata.calendar.html
-file
-
-
-
-add
-
-gdata.base.service.html
-file
-
-
-
-add
-
-gdata.base.html
-file
-
-
-
-add
-
-gdata.geo.html
-file
-
-
-
-add
-
-gdata.photos.service.html
-file
-
-
-
-add
-
-gdata.photos.html
-file
-
-
-
-add
-
-gdata.contacts.service.html
-file
-
-
-
-add
-
-gdata.contacts.html
-file
-
-
-
-add
-
-gdata.media.html
-file
-
-
-
-add
-
-atom.service.html
-file
-
-
-
-add
-
-generate_docs
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-atom.html
-file
-
-
-
-add
-
-gdata.docs.service.html
-file
-
-
-
-add
-
-gdata.docs.html
-file
-
-
-
-add
-
-gdata.exif.html
-file
-
-
-
-add
-

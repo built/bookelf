@@ -1,58 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/geopy-trunk
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-build
-dir
-
-
-
-add
-
-LICENSE
-file
-
-
-
-add
-
-dist
-dir
-
-
-
-add
-
-geopy
-dir
-
-
-
-add
-
-setup.py
-file
-
-
-
-add
-
-geopy.egg-info
-dir
-
-
-
-add
-

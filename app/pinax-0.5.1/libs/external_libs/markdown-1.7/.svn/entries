@@ -1,72 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/markdown-1.7
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-mdx_footnotes.py
-file
-
-
-
-add
-
-README.html
-file
-
-
-
-add
-
-CHANGE_LOG.txt
-file
-
-
-
-add
-
-mdx_rss.py
-file
-
-
-
-add
-
-setup.py
-file
-
-
-
-add
-
-markdown.py
-file
-
-
-
-add
-
-PKG-INFO
-file
-
-
-
-add
-
-README.txt
-file
-
-
-
-add
-

@@ -1,65 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/Genshi-0.5.1/genshi/template/tests/templates
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-test.html
-file
-
-
-
-add
-
-test_no_doctype.html
-file
-
-
-
-add
-
-__init__.py
-file
-
-
-
-add
-
-functions.txt
-file
-
-
-
-add
-
-functions.html
-file
-
-
-
-add
-
-new_syntax.txt
-file
-
-
-
-add
-
-test.txt
-file
-
-
-
-add
-

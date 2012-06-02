@@ -1,93 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/test/functional/input/data
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-list_table.txt
-file
-
-
-
-add
-
-nonalphanumeric.txt
-file
-
-
-
-add
-
-header_footer.txt
-file
-
-
-
-add
-
-table_colspan.txt
-file
-
-
-
-add
-
-unicode.txt
-file
-
-
-
-add
-
-errors.txt
-file
-
-
-
-add
-
-latex.txt
-file
-
-
-
-add
-
-custom_roles.txt
-file
-
-
-
-add
-
-table_complex.txt
-file
-
-
-
-add
-
-standard.txt
-file
-
-
-
-add
-
-table_rowspan.txt
-file
-
-
-
-add
-

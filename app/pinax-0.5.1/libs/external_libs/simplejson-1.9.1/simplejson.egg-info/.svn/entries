@@ -1,58 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/simplejson-1.9.1/simplejson.egg-info
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-SOURCES.txt
-file
-
-
-
-add
-
-top_level.txt
-file
-
-
-
-add
-
-PKG-INFO
-file
-
-
-
-add
-
-dependency_links.txt
-file
-
-
-
-add
-
-native_libs.txt
-file
-
-
-
-add
-
-zip-safe
-file
-
-
-
-add
-

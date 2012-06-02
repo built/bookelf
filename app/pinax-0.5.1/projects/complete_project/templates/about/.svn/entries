@@ -1,44 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/projects/complete_project/templates/about
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-privacy.html
-file
-
-
-
-add
-
-what_next.html
-file
-
-
-
-add
-
-about.html
-file
-
-
-
-add
-
-terms.html
-file
-
-
-
-add
-

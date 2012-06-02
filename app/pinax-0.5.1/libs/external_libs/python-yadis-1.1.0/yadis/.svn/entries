@@ -1,128 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/python-yadis-1.1.0/yadis
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-filters.py
-file
-
-
-
-add
-
-test
-dir
-
-
-
-add
-
-manager.py
-file
-
-
-
-add
-
-constants.py
-file
-
-
-
-add
-
-xrires.py
-file
-
-
-
-add
-
-discover.py
-file
-
-
-
-add
-
-__init__.py
-file
-
-
-
-add
-
-accept.py
-file
-
-
-
-add
-
-parsehtml.py
-file
-
-
-
-add
-
-__init__.pyc
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-xri.py
-file
-
-
-
-add
-
-services.py
-file
-
-
-
-add
-
-xri.pyc
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-etxrd.py
-file
-
-
-
-add
-

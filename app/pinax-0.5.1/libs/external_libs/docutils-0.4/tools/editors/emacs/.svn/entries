@@ -1,44 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/tools/editors/emacs
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-tests
-dir
-
-
-
-add
-
-rst.el
-file
-
-
-
-add
-
-docutils.conf
-file
-
-
-
-add
-
-README.txt
-file
-
-
-
-add
-

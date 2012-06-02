@@ -1,142 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/python-yadis-1.1.0/yadis/test/data
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-delegated-20060809-r1.xrds
-file
-
-
-
-add
-
-delegated-20060809-r2.xrds
-file
-
-
-
-add
-
-spoof1.xrds
-file
-
-
-
-add
-
-spoof2.xrds
-file
-
-
-
-add
-
-status222.xrds
-file
-
-
-
-add
-
-spoof3.xrds
-file
-
-
-
-add
-
-test1-discover.txt
-file
-
-
-
-add
-
-test1-xrd.xml
-file
-
-
-
-add
-
-ref.xrds
-file
-
-
-
-add
-
-README
-file
-
-
-
-add
-
-sometimesprefix.xrds
-file
-
-
-
-add
-
-prefixsometimes.xrds
-file
-
-
-
-add
-
-delegated-20060809.xrds
-file
-
-
-
-add
-
-no-xrd.xml
-file
-
-
-
-add
-
-example-xrds.xml
-file
-
-
-
-add
-
-test1-parsehtml.txt
-file
-
-
-
-add
-
-not-xrds.xml
-file
-
-
-
-add
-
-accept.txt
-file
-
-
-
-add
-

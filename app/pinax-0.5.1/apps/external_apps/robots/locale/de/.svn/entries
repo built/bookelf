@@ -1,23 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/robots/locale/de
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-LC_MESSAGES
-dir
-
-
-
-add
-

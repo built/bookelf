@@ -1,44 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/docs/.build/html/external/oembed
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-readme.html
-file
-
-
-
-add
-
-installation.html
-file
-
-
-
-add
-
-usage.html
-file
-
-
-
-add
-
-index.html
-file
-
-
-
-add
-

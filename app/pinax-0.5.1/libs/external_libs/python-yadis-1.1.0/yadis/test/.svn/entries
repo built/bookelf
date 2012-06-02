@@ -1,93 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/python-yadis-1.1.0/yadis/test
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-discoverdata.py
-file
-
-
-
-add
-
-test_xrires.py
-file
-
-
-
-add
-
-test_discover.py
-file
-
-
-
-add
-
-livediscover.py
-file
-
-
-
-add
-
-test_accept.py
-file
-
-
-
-add
-
-test_parsehtml.py
-file
-
-
-
-add
-
-__init__.py
-file
-
-
-
-add
-
-runtests
-file
-
-
-
-add
-
-test_xri.py
-file
-
-
-
-add
-
-data
-dir
-
-
-
-add
-
-test_etxrd.py
-file
-
-
-
-add
-

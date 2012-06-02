@@ -1,65 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/local_apps/tribes/templates/notification
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-tribes_created_new_member
-dir
-
-
-
-add
-
-tribes_new_topic
-dir
-
-
-
-add
-
-tribes_friend_tribe
-dir
-
-
-
-add
-
-tribes_topic_response
-dir
-
-
-
-add
-
-tribes_new_tribe
-dir
-
-
-
-add
-
-tribes_friend_joined
-dir
-
-
-
-add
-
-tribes_new_member
-dir
-
-
-
-add
-

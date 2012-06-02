@@ -1,114 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-prefixsometimes.xrds
-file
-
-
-
-add
-
-sometimesprefix.xrds
-file
-
-
-
-add
-
-delegated-20060809-r1.xrds
-file
-
-
-
-add
-
-delegated-20060809.xrds
-file
-
-
-
-add
-
-delegated-20060809-r2.xrds
-file
-
-
-
-add
-
-no-xrd.xml
-file
-
-
-
-add
-
-spoof1.xrds
-file
-
-
-
-add
-
-spoof2.xrds
-file
-
-
-
-add
-
-valid-populated-xrds.xml
-file
-
-
-
-add
-
-spoof3.xrds
-file
-
-
-
-add
-
-status222.xrds
-file
-
-
-
-add
-
-ref.xrds
-file
-
-
-
-add
-
-not-xrds.xml
-file
-
-
-
-add
-
-README
-file
-
-
-
-add
-

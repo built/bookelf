@@ -1,135 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/photologue
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-admin.py
-file
-
-
-
-add
-
-locale
-dir
-
-
-
-add
-
-utils
-dir
-
-
-
-add
-
-admin.pyc
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-__init__.py
-file
-
-
-
-add
-
-__init__.pyc
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-res
-dir
-
-
-
-add
-
-tests.py
-file
-
-
-
-add
-
-models.py
-file
-
-
-
-add
-
-templatetags
-dir
-
-
-
-add
-
-management
-dir
-
-
-
-add
-
-urls.py
-file
-
-
-
-add
-
-models.pyc
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-templates
-dir
-
-
-
-add
-

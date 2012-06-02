@@ -1,93 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/elementtree-1.2.6/elementtree
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-ElementTree.py
-file
-
-
-
-add
-
-SgmlopXMLTreeBuilder.py
-file
-
-
-
-add
-
-TidyTools.py
-file
-
-
-
-add
-
-HTMLTreeBuilder.py
-file
-
-
-
-add
-
-ElementInclude.py
-file
-
-
-
-add
-
-__init__.py
-file
-
-
-
-add
-
-SimpleXMLTreeBuilder.py
-file
-
-
-
-add
-
-TidyHTMLTreeBuilder.py
-file
-
-
-
-add
-
-ElementPath.py
-file
-
-
-
-add
-
-SimpleXMLWriter.py
-file
-
-
-
-add
-
-XMLTreeBuilder.py
-file
-
-
-
-add
-

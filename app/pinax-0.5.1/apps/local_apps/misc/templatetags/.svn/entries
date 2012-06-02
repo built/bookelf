@@ -1,121 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/local_apps/misc/templatetags
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-order_by.pyc
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-in_filter.py
-file
-
-
-
-add
-
-shorttimesince_tag.py
-file
-
-
-
-add
-
-svn_app_version.py
-file
-
-
-
-add
-
-svn_app_version.pyc
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-__init__.py
-file
-
-
-
-add
-
-comments_tag.py
-file
-
-
-
-add
-
-__init__.pyc
-file
-
-
-
-add
-
-
-
-
-
-has-props
-has-prop-mods
-
-captureas_tag.py
-file
-
-
-
-add
-
-var_tag.py
-file
-
-
-
-add
-
-order_by.py
-file
-
-
-
-add
-
-extra_voting_tags.py
-file
-
-
-
-add
-

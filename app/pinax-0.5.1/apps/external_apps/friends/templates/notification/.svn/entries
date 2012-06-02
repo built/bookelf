@@ -1,58 +1,0 @@
-8
-
-dir
-0
-https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/friends/templates/notification
-https://r.builtsoftware.com
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-friends_invite_sent
-dir
-
-
-
-add
-
-friends_accept_sent
-dir
-
-
-
-add
-
-friends_otherconnect
-dir
-
-
-
-add
-
-friends_invite
-dir
-
-
-
-add
-
-friends_accept
-dir
-
-
-
-add
-
-join_accept
-dir
-
-
-
-add
-
