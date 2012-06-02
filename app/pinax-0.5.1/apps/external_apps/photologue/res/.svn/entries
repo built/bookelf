@@ -1,0 +1,72 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/photologue/res
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+sample.jpg
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_portrait.jpg
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_landscape.jpg
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test_square.jpg
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

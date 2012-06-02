@@ -1,0 +1,72 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/projects/complete_project/templates/blog
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+plugins
+dir
+
+
+
+add
+
+friends_posts.html
+file
+
+
+
+add
+
+edit.html
+file
+
+
+
+add
+
+post.html
+file
+
+
+
+add
+
+blogs.html
+file
+
+
+
+add
+
+your_posts.html
+file
+
+
+
+add
+
+new.html
+file
+
+
+
+add
+
+base.html
+file
+
+
+
+add
+

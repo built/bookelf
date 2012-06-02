@@ -1,0 +1,100 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/test/functional/input
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+standalone_rst_html4css1.txt
+file
+
+
+
+add
+
+compact_lists.txt
+file
+
+
+
+add
+
+dangerous.txt
+file
+
+
+
+add
+
+standalone_rst_newlatex.txt
+file
+
+
+
+add
+
+pep_html.txt
+file
+
+
+
+add
+
+simple.txt
+file
+
+
+
+add
+
+data
+dir
+
+
+
+add
+
+standalone_rst_s5_html.txt
+file
+
+
+
+add
+
+standalone_rst_latex.txt
+file
+
+
+
+add
+
+field_list.txt
+file
+
+
+
+add
+
+latex_docinfo.txt
+file
+
+
+
+add
+
+standalone_rst_pseudoxml.txt
+file
+
+
+
+add
+

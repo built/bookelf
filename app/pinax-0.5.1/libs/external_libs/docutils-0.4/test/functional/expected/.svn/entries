@@ -1,0 +1,100 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/test/functional/expected
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+standalone_rst_s5_html_2.html
+file
+
+
+
+add
+
+field_name_limit.html
+file
+
+
+
+add
+
+standalone_rst_html4css1.html
+file
+
+
+
+add
+
+compact_lists.html
+file
+
+
+
+add
+
+misc_rst_html4css1.html
+file
+
+
+
+add
+
+dangerous.html
+file
+
+
+
+add
+
+pep_html.html
+file
+
+
+
+add
+
+standalone_rst_latex.tex
+file
+
+
+
+add
+
+latex_docinfo.tex
+file
+
+
+
+add
+
+ui
+dir
+
+
+
+add
+
+standalone_rst_pseudoxml.txt
+file
+
+
+
+add
+
+standalone_rst_s5_html_1.html
+file
+
+
+
+add
+

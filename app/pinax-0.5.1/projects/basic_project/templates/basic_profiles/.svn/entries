@@ -1,0 +1,44 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/projects/basic_project/templates/basic_profiles
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+profile_right_panel.html
+file
+
+
+
+add
+
+profile.html
+file
+
+
+
+add
+
+profiles.html
+file
+
+
+
+add
+
+base.html
+file
+
+
+
+add
+

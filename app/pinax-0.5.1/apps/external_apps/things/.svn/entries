@@ -1,0 +1,135 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/things
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+fields.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+sites.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+options.py
+file
+
+
+
+add
+
+options.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+__init__.py
+file
+
+
+
+add
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+models.py
+file
+
+
+
+add
+
+templatetags
+dir
+
+
+
+add
+
+fields.py
+file
+
+
+
+add
+
+models.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+sites.py
+file
+
+
+
+add
+
+templates
+dir
+
+
+
+add
+

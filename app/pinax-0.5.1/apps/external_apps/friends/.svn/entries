@@ -1,0 +1,156 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/friends
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+admin.py
+file
+
+
+
+add
+
+forms.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+admin.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+management.py
+file
+
+
+
+add
+
+views.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+management.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+importer.py
+file
+
+
+
+add
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+models.py
+file
+
+
+
+add
+
+importer.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+forms.py
+file
+
+
+
+add
+
+models.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+templates
+dir
+
+
+
+add
+

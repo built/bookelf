@@ -1,0 +1,86 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/docs/.build/html/_sources
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+external
+dir
+
+
+
+add
+
+external_apps.txt
+file
+
+
+
+add
+
+releases
+dir
+
+
+
+add
+
+dependencies.txt
+file
+
+
+
+add
+
+install.txt
+file
+
+
+
+add
+
+index.txt
+file
+
+
+
+add
+
+customization.txt
+file
+
+
+
+add
+
+tabs.txt
+file
+
+
+
+add
+
+intro.txt
+file
+
+
+
+add
+
+deployment.txt
+file
+
+
+
+add
+

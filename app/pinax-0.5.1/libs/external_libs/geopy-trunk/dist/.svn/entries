@@ -1,0 +1,44 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/geopy-trunk/dist
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+geopy-0.93-py2.4.egg
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+geopy-0.93-py2.5.egg
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

@@ -1,0 +1,254 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/docutils/parsers/rst/include
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+isopub.txt
+file
+
+
+
+add
+
+isobox.txt
+file
+
+
+
+add
+
+isogrk4-wide.txt
+file
+
+
+
+add
+
+isonum.txt
+file
+
+
+
+add
+
+isomfrk.txt
+file
+
+
+
+add
+
+isomopf.txt
+file
+
+
+
+add
+
+xhtml1-lat1.txt
+file
+
+
+
+add
+
+mmlextra-wide.txt
+file
+
+
+
+add
+
+xhtml1-symbol.txt
+file
+
+
+
+add
+
+mmlextra.txt
+file
+
+
+
+add
+
+isocyr1.txt
+file
+
+
+
+add
+
+isocyr2.txt
+file
+
+
+
+add
+
+xhtml1-special.txt
+file
+
+
+
+add
+
+isoamsa.txt
+file
+
+
+
+add
+
+isoamsb.txt
+file
+
+
+
+add
+
+isoamsc.txt
+file
+
+
+
+add
+
+mmlalias.txt
+file
+
+
+
+add
+
+isomfrk-wide.txt
+file
+
+
+
+add
+
+isomopf-wide.txt
+file
+
+
+
+add
+
+isomscr-wide.txt
+file
+
+
+
+add
+
+isodia.txt
+file
+
+
+
+add
+
+isoamsn.txt
+file
+
+
+
+add
+
+isoamso.txt
+file
+
+
+
+add
+
+isolat1.txt
+file
+
+
+
+add
+
+isolat2.txt
+file
+
+
+
+add
+
+isoamsr.txt
+file
+
+
+
+add
+
+isomscr.txt
+file
+
+
+
+add
+
+isogrk1.txt
+file
+
+
+
+add
+
+isogrk2.txt
+file
+
+
+
+add
+
+isogrk3.txt
+file
+
+
+
+add
+
+isogrk4.txt
+file
+
+
+
+add
+
+s5defs.txt
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+isotech.txt
+file
+
+
+
+add
+

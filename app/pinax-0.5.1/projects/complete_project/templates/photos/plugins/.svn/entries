@@ -1,0 +1,23 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/projects/complete_project/templates/photos/plugins
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+profiles
+dir
+
+
+
+add
+

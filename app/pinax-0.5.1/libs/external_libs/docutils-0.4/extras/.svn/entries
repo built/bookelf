@@ -1,0 +1,37 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/extras
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+roman.py
+file
+
+
+
+add
+
+optparse.py
+file
+
+
+
+add
+
+textwrap.py
+file
+
+
+
+add
+

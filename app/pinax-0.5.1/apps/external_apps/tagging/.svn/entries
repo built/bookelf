@@ -1,0 +1,233 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/tagging
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+admin.py
+file
+
+
+
+add
+
+forms.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+admin.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+managers.py
+file
+
+
+
+add
+
+views.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+settings.py
+file
+
+
+
+add
+
+managers.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+utils.py
+file
+
+
+
+add
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+settings.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+templatetags
+dir
+
+
+
+add
+
+utils.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+fields.py
+file
+
+
+
+add
+
+validators.py
+file
+
+
+
+add
+
+fields.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+tests
+dir
+
+
+
+add
+
+validators.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+generic.py
+file
+
+
+
+add
+
+models.py
+file
+
+
+
+add
+
+models.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+forms.py
+file
+
+
+
+add
+

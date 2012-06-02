@@ -1,0 +1,65 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/projects/complete_project/templates/tribes
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+topic.html
+file
+
+
+
+add
+
+topics.html
+file
+
+
+
+add
+
+create.html
+file
+
+
+
+add
+
+tribe.html
+file
+
+
+
+add
+
+your_tribes.html
+file
+
+
+
+add
+
+tribes.html
+file
+
+
+
+add
+
+base.html
+file
+
+
+
+add
+

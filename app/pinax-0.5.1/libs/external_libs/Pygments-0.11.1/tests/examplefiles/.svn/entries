@@ -1,0 +1,653 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/Pygments-0.11.1/tests/examplefiles
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+test.xsl
+file
+
+
+
+add
+
+apache2.conf
+file
+
+
+
+add
+
+test.myt
+file
+
+
+
+add
+
+sphere.pov
+file
+
+
+
+add
+
+ltmain.sh
+file
+
+
+
+add
+
+regex-delims.pl
+file
+
+
+
+add
+
+genshi_example.xml+genshi
+file
+
+
+
+add
+
+test.erl
+file
+
+
+
+add
+
+badcase.java
+file
+
+
+
+add
+
+test.rhtml
+file
+
+
+
+add
+
+AlternatingGroup.mu
+file
+
+
+
+add
+
+test.php
+file
+
+
+
+add
+
+nasm_aoutso.asm
+file
+
+
+
+add
+
+fucked_up.rb
+file
+
+
+
+add
+
+squid.conf
+file
+
+
+
+add
+
+nginx_nginx.conf
+file
+
+
+
+add
+
+Intro.java
+file
+
+
+
+add
+
+dwarf.cw
+file
+
+
+
+add
+
+ceval.c
+file
+
+
+
+add
+
+sample.m
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+test.R
+file
+
+
+
+add
+
+database.pytb
+file
+
+
+
+add
+
+test.rb
+file
+
+
+
+add
+
+objc_example.m
+file
+
+
+
+add
+
+DancingSudoku.lhs
+file
+
+
+
+add
+
+test.bas
+file
+
+
+
+add
+
+batchfile.bat
+file
+
+
+
+add
+
+as3_test.as
+file
+
+
+
+add
+
+simple.md
+file
+
+
+
+add
+
+de.MoinMoin.po
+file
+
+
+
+add
+
+numbers.c
+file
+
+
+
+add
+
+example.yaml
+file
+
+
+
+add
+
+test.plot
+file
+
+
+
+add
+
+Sudoku.lhs
+file
+
+
+
+add
+
+test.d
+file
+
+
+
+add
+
+test.pas
+file
+
+
+
+add
+
+classes.dylan
+file
+
+
+
+add
+
+zmlrpc.f90
+file
+
+
+
+add
+
+moin_SyntaxReference.txt
+file
+
+
+
+add
+
+test.css
+file
+
+
+
+add
+
+sqlite3.sqlite3-console
+file
+
+
+
+add
+
+test.moo
+file
+
+
+
+add
+
+phpcomplete.vim
+file
+
+
+
+add
+
+ruby_func_def.rb
+file
+
+
+
+add
+
+example.weechatlog
+file
+
+
+
+add
+
+genshitext_example.genshitext
+file
+
+
+
+add
+
+Squeak.st
+file
+
+
+
+add
+
+cheetah_example.html
+file
+
+
+
+add
+
+example.rhtml
+file
+
+
+
+add
+
+matlabsession_sample.txt
+file
+
+
+
+add
+
+test.cs
+file
+
+
+
+add
+
+source.lgt
+file
+
+
+
+add
+
+hello.scala
+file
+
+
+
+add
+
+example.xhtml
+file
+
+
+
+add
+
+type.lisp
+file
+
+
+
+add
+
+py3_test.txt
+file
+
+
+
+add
+
+sources.list
+file
+
+
+
+add
+
+smarty_example.html
+file
+
+
+
+add
+
+example.rb
+file
+
+
+
+add
+
+python25-bsd.mak
+file
+
+
+
+add
+
+perl5db.pl
+file
+
+
+
+add
+
+firefox.mak
+file
+
+
+
+add
+
+functional.rst
+file
+
+
+
+add
+
+string_delimiters.d
+file
+
+
+
+add
+
+example.lua
+file
+
+
+
+add
+
+example.c
+file
+
+
+
+add
+
+example.pas
+file
+
+
+
+add
+
+SmallCheck.hs
+file
+
+
+
+add
+
+test.tcsh
+file
+
+
+
+add
+
+test.html
+file
+
+
+
+add
+
+example.moo
+file
+
+
+
+add
+
+multiline_regexes.rb
+file
+
+
+
+add
+
+lighttpd_config.conf
+file
+
+
+
+add
+
+boot-9.scm
+file
+
+
+
+add
+
+example.xml
+file
+
+
+
+add
+
+pleac.in.rb
+file
+
+
+
+add
+
+test.boo
+file
+
+
+
+add
+
+format.ml
+file
+
+
+
+add
+
+test.java
+file
+
+
+
+add
+
+html+php_faulty.php
+file
+
+
+
+add
+
+django_sample.html+django
+file
+
+
+
+add
+
+objc_example2.m
+file
+
+
+
+add
+
+condensed_ruby.rb
+file
+
+
+
+add
+
+genclass.clj
+file
+
+
+
+add
+
+nasm_objexe.asm
+file
+
+
+
+add
+
+jinjadesignerdoc.rst
+file
+
+
+
+add
+
+test.jsp
+file
+
+
+
+add
+
+while.pov
+file
+
+
+
+add
+
+example.cpp
+file
+
+
+
+add
+
+perlfunc.1
+file
+
+
+
+add
+

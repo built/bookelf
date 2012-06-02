@@ -1,0 +1,100 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/vobject-0.6.6
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+LICENSE.txt
+file
+
+
+
+add
+
+test_files
+dir
+
+
+
+add
+
+test_vobject.py
+file
+
+
+
+add
+
+vobject.egg-info
+dir
+
+
+
+add
+
+setup.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ACKNOWLEDGEMENTS.txt
+file
+
+
+
+add
+
+PKG-INFO
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+vobject
+dir
+
+
+
+add
+
+ez_setup
+dir
+
+
+
+add
+
+setup.cfg
+file
+
+
+
+add
+

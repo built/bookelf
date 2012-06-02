@@ -1,0 +1,30 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/geopy-trunk/build
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+lib
+dir
+
+
+
+add
+
+bdist.linux-i686
+dir
+
+
+
+add
+

@@ -1,0 +1,44 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/docs/howto
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+rst-directives.txt
+file
+
+
+
+add
+
+rst-roles.txt
+file
+
+
+
+add
+
+html-stylesheets.txt
+file
+
+
+
+add
+
+i18n.txt
+file
+
+
+
+add
+

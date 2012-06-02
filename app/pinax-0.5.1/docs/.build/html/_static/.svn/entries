@@ -1,0 +1,149 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/docs/.build/html/_static
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+contents.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+doctools.js
+file
+
+
+
+add
+
+searchtools.js
+file
+
+
+
+add
+
+traditional.css
+file
+
+
+
+add
+
+file.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+navigation.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+plus.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+sphinxdoc.css
+file
+
+
+
+add
+
+stickysidebar.css
+file
+
+
+
+add
+
+jquery.js
+file
+
+
+
+add
+
+default.css
+file
+
+
+
+add
+
+pygments.css
+file
+
+
+
+add
+
+minus.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+rightsidebar.css
+file
+
+
+
+add
+

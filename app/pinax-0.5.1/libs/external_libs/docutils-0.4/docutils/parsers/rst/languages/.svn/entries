@@ -1,0 +1,177 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/docutils/parsers/rst/languages
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+de.py
+file
+
+
+
+add
+
+sv.py
+file
+
+
+
+add
+
+ja.py
+file
+
+
+
+add
+
+zh_tw.py
+file
+
+
+
+add
+
+fi.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+zh_cn.py
+file
+
+
+
+add
+
+en.py
+file
+
+
+
+add
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+eo.py
+file
+
+
+
+add
+
+en.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+cs.py
+file
+
+
+
+add
+
+pt_br.py
+file
+
+
+
+add
+
+fr.py
+file
+
+
+
+add
+
+es.py
+file
+
+
+
+add
+
+nl.py
+file
+
+
+
+add
+
+it.py
+file
+
+
+
+add
+
+sk.py
+file
+
+
+
+add
+
+ca.py
+file
+
+
+
+add
+
+af.py
+file
+
+
+
+add
+
+ru.py
+file
+
+
+
+add
+

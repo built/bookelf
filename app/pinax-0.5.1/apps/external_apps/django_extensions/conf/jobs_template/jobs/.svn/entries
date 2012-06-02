@@ -1,0 +1,58 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/django_extensions/conf/jobs_template/jobs
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+weekly
+dir
+
+
+
+add
+
+__init__.py.tmpl
+file
+
+
+
+add
+
+daily
+dir
+
+
+
+add
+
+hourly
+dir
+
+
+
+add
+
+sample.py.tmpl
+file
+
+
+
+add
+
+monthly
+dir
+
+
+
+add
+

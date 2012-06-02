@@ -1,0 +1,128 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/local_apps/django_openidauth
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+admin.py
+file
+
+
+
+add
+
+admin.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+regviews.py
+file
+
+
+
+add
+
+views.py
+file
+
+
+
+add
+
+regviews.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+__init__.py
+file
+
+
+
+add
+
+views.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+models.py
+file
+
+
+
+add
+
+models.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+templates
+dir
+
+
+
+add
+

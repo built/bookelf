@@ -1,0 +1,72 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/Pygments-0.11.1/tests/dtds
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+HTML4-s.dtd
+file
+
+
+
+add
+
+HTML4.dtd
+file
+
+
+
+add
+
+HTMLsym.ent
+file
+
+
+
+add
+
+HTMLspec.ent
+file
+
+
+
+add
+
+HTML4-f.dtd
+file
+
+
+
+add
+
+HTML4.dcl
+file
+
+
+
+add
+
+HTML4.soc
+file
+
+
+
+add
+
+HTMLlat1.ent
+file
+
+
+
+add
+

@@ -1,0 +1,28 @@
+{% extends "site_base.html" %}
+
+{% load i18n %}
+
+{% block head_title %}{% trans "Books Borrowed" %}{% endblock %}
+
+{% block body %}
+
+	<h3>{% trans "Books Borrowed" %}</h3>
+
+	{% if not object_list %}
+	
+	You haven't borrowed any books.
+
+	{% else %}
+	
+		{% for book in object_list %}
+	
+		<li><a href="../../book/isbn/{{ book.item.item.isbn }}">{{ book.item.item.title }}</a> 
+			is on loan to you by <a href="../../profiles/{{book.item.owner.username}}/">{{book.item.owner.username}}</a> as of {{ book.date_loaned|date }}</li>
+   	
+		{% endfor %}
+	
+	
+	{% endif %}
+
+
+{% endblock %}

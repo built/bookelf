@@ -1,0 +1,191 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/django_extensions/management/commands
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+sqldiff.py
+file
+
+
+
+add
+
+runscript.py
+file
+
+
+
+add
+
+dumpscript.py
+file
+
+
+
+add
+
+clean_pyc.py
+file
+
+
+
+add
+
+runserver_plus.py
+file
+
+
+
+add
+
+runjob.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+passwd.py
+file
+
+
+
+add
+
+create_command.py
+file
+
+
+
+add
+
+print_user_for_session.py
+file
+
+
+
+add
+
+describe_form.py
+file
+
+
+
+add
+
+create_app.py
+file
+
+
+
+add
+
+compile_pyc.py
+file
+
+
+
+add
+
+graph_models.py
+file
+
+
+
+add
+
+syncdata.py
+file
+
+
+
+add
+
+generate_secret_key.py
+file
+
+
+
+add
+
+shell_plus.py
+file
+
+
+
+add
+
+export_emails.py
+file
+
+
+
+add
+
+runprofileserver.py
+file
+
+
+
+add
+
+create_jobs.py
+file
+
+
+
+add
+
+sync_media_s3.py
+file
+
+
+
+add
+
+runjobs.py
+file
+
+
+
+add
+
+show_urls.py
+file
+
+
+
+add
+
+set_fake_passwords.py
+file
+
+
+
+add
+
+reset_db.py
+file
+
+
+
+add
+

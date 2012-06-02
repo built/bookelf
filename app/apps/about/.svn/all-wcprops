@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/88/virtlib/trunk/apps/about
+END
+urls.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/88/virtlib/trunk/apps/about/urls.pyc
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/88/virtlib/trunk/apps/about/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/88/virtlib/trunk/apps/about/__init__.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/88/virtlib/trunk/apps/about/__init__.pyc
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/88/virtlib/trunk/apps/about/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/88/virtlib/trunk/apps/about/urls.py
+END
+models.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/88/virtlib/trunk/apps/about/models.pyc
+END

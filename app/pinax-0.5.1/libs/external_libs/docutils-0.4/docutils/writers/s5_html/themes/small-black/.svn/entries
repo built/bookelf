@@ -1,0 +1,30 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/docutils/writers/s5_html/themes/small-black
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+__base__
+file
+
+
+
+add
+
+pretty.css
+file
+
+
+
+add
+

@@ -1,0 +1,40 @@
+{% extends "site_base.html" %}
+
+{% load i18n %}
+
+{% block head_title %}{% trans "Virtual Library Leaders" %}{% endblock %}
+
+{% block tab_id %}id="home_tab"{% endblock %}
+
+{% block body %}
+
+
+	<div>
+		<h1>Leading Lenders on Virtlib</h1>
+		
+	</div>
+	<div class="panel col1">
+		<h3>Bow before their magnanimous generosity! Cower at their sharing!</h3>
+
+<style>.leader-name { font-weight: bold; font-size: 2em;} .leader-itemcount { border: 1px gray dotted; background-color: #F0F0F0; padding: 10px; font-style: italic; font-size: 1.25em;}
+</style>
+		{% if leaders %}
+		<ul>
+			{% for leader in leaders %}
+			<li><span class="leader-name">{{leader.username}}</span> <span class="leader-itemcount">{{leader.bookcount}} titles</span></li>
+			{% endfor %}
+		</ul>
+		{% else %}
+		Um... we need some leaders!
+		{% endif %}
+
+	</div>
+<br/>
+<br/>
+	<div>
+		<p>
+Want to make the list? <a href="/book/add/">Go share more books!</a>  : ) 
+		</p>
+	</div>
+    
+{% endblock %}

@@ -1,0 +1,93 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/docutils/parsers/rst/directives
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+parts.py
+file
+
+
+
+add
+
+tables.py
+file
+
+
+
+add
+
+misc.py
+file
+
+
+
+add
+
+body.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+references.py
+file
+
+
+
+add
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+admonitions.py
+file
+
+
+
+add
+
+html.py
+file
+
+
+
+add
+
+images.py
+file
+
+
+
+add
+

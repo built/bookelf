@@ -1,0 +1,107 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/djangologging
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+LICENCE
+file
+
+
+
+add
+
+middleware.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+handlers.py
+file
+
+
+
+add
+
+middleware.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+docs
+dir
+
+
+
+add
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+handlers.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+decorators.py
+file
+
+
+
+add
+
+templates
+dir
+
+
+
+add
+

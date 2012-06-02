@@ -1,0 +1,128 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/Pygments-0.11.1
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+LICENSE
+file
+
+
+
+add
+
+external
+dir
+
+
+
+add
+
+ez_setup.py
+file
+
+
+
+add
+
+AUTHORS
+file
+
+
+
+add
+
+setup.py
+file
+
+
+
+add
+
+scripts
+dir
+
+
+
+add
+
+docs
+dir
+
+
+
+add
+
+setup.cfg
+file
+
+
+
+add
+
+Pygments.egg-info
+dir
+
+
+
+add
+
+tests
+dir
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+pygments
+dir
+
+
+
+add
+
+CHANGES
+file
+
+
+
+add
+
+PKG-INFO
+file
+
+
+
+add
+
+MANIFEST.in
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

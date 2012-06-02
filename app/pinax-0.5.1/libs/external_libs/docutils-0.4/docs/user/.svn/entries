@@ -1,0 +1,86 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/docs/user
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+slide-shows.txt
+file
+
+
+
+add
+
+Makefile.docutils-update
+file
+
+
+
+add
+
+config.txt
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+emacs.txt
+file
+
+
+
+add
+
+rst
+dir
+
+
+
+add
+
+mailing-lists.txt
+file
+
+
+
+add
+
+latex.txt
+file
+
+
+
+add
+
+links.txt
+file
+
+
+
+add
+
+tools.txt
+file
+
+
+
+add
+

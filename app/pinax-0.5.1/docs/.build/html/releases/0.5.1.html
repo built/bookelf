@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>0.5.1 &mdash; Pinax v0.5.1 documentation</title>
+    <link rel="stylesheet" href="../_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '0.5.1',
+        COLLAPSE_MODINDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="top" title="Pinax v0.5.1 documentation" href="../index.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li><a href="../index.html">Pinax v0.5.1 documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  
+  <div class="section" id="id1">
+<span id="ref-current-release-notes"></span><h1>0.5.1<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<p>The 0.5.1 release brings various bug fixes and more stability to Pinax. We have fixed some
+bugs and improved the documentation. This release should be backward compatible, except
+where noted.</p>
+<div class="section" id="python-2-4-support">
+<h2>Python 2.4 support<a class="headerlink" href="#python-2-4-support" title="Permalink to this headline">¶</a></h2>
+<p>0.5.1 brings Python 2.4 compatibility. There are still many distributions out there that
+have Python 2.4 as the default Python version.</p>
+</div>
+<div class="section" id="removal-of-pownce-support">
+<h2>Removal of Pownce support<a class="headerlink" href="#removal-of-pownce-support" title="Permalink to this headline">¶</a></h2>
+<p>Pownce closed their doors on December 15, 2008 after being bought by Six Apart. There is no
+longer any reason we should support Pownce.</p>
+<p>You may need to remove some Pownce bits from your templates if you forked from the
+<tt class="docutils literal"><span class="pre">complete_project</span></tt> locally.</p>
+</div>
+<div class="section" id="various-bug-fixes">
+<h2>Various bug-fixes<a class="headerlink" href="#various-bug-fixes" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="http://code.pinaxproject.com/codebases/codebase/pinax/changesets/1292/">r1292</a> Fixed a bug in django_openidconsumer that prevented login on some deployments</li>
+<li><a class="reference external" href="http://code.pinaxproject.com/codebases/codebase/pinax/changesets/1288/">r1288</a> Removed an import that was never used in <tt class="docutils literal"><span class="pre">profiles/views.py</span></tt>.</li>
+<li><a class="reference external" href="http://code.pinaxproject.com/codebases/codebase/pinax/changesets/1283/">r1283</a> <a class="reference external" href="http://code.google.com/p/django-hotclub/issues/detail?id=131">Issue #131</a> Added a missing datetime import in <tt class="docutils literal"><span class="pre">apps/local_apps/projects/forms.py</span></tt>.</li>
+<li><a class="reference external" href="http://code.pinaxproject.com/codebases/codebase/pinax/changesets/1266/">r1266</a> Fixed a typo of <tt class="docutils literal"><span class="pre">ValidationError</span></tt> in <tt class="docutils literal"><span class="pre">apps/local_apps/account/forms.py</span></tt>.</li>
+<li><a class="reference external" href="http://code.pinaxproject.com/codebases/codebase/pinax/changesets/1215/">r1215</a> <a class="reference external" href="http://code.google.com/p/django-hotclub/issues/detail?id=119">Issue #119</a> Added a missing import in <tt class="docutils literal"><span class="pre">apps/local_apps/misc/utils.py</span></tt>.</li>
+<li><a class="reference external" href="http://code.pinaxproject.com/codebases/codebase/pinax/changesets/1193/">r1193</a> Added the about app to the basic_project <tt class="docutils literal"><span class="pre">INSTALLED_APPS</span></tt> list.</li>
+</ul>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+            <h3><a href="../index.html">Table Of Contents</a></h3>
+            <ul>
+<li><a class="reference external" href="">0.5.1</a><ul>
+<li><a class="reference external" href="#python-2-4-support">Python 2.4 support</a></li>
+<li><a class="reference external" href="#removal-of-pownce-support">Removal of Pownce support</a></li>
+<li><a class="reference external" href="#various-bug-fixes">Various bug-fixes</a></li>
+</ul>
+</li>
+</ul>
+
+            <h3>This Page</h3>
+            <ul class="this-page-menu">
+              <li><a href="../_sources/releases/0.5.1.txt">Show Source</a></li>
+            </ul>
+          <h3>Quick search</h3>
+            <form class="search" action="../search.html" method="get">
+              <input type="text" name="q" size="18" /> <input type="submit" value="Go" />
+              <input type="hidden" name="check_keywords" value="yes" />
+              <input type="hidden" name="area" value="default" />
+            </form>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li><a href="../index.html">Pinax v0.5.1 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+      &copy; Copyright 2008, James Tauber and Pinax Team.
+      Last updated on Jan 10, 2009.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 0.5.1.
+    </div>
+  </body>
+</html>

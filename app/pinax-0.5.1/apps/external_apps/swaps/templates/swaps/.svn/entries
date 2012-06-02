@@ -1,0 +1,100 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/swaps/templates/swaps
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+dead.html
+file
+
+
+
+add
+
+offer.html
+file
+
+
+
+add
+
+propose_swap.html
+file
+
+
+
+add
+
+proposed_by_you.html
+file
+
+
+
+add
+
+your_offers.html
+file
+
+
+
+add
+
+offers.html
+file
+
+
+
+add
+
+edit_offer.html
+file
+
+
+
+add
+
+accepted.html
+file
+
+
+
+add
+
+proposed_to_you.html
+file
+
+
+
+add
+
+base.html
+file
+
+
+
+add
+
+new_offer.html
+file
+
+
+
+add
+
+swap.html
+file
+
+
+
+add
+

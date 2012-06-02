@@ -1,0 +1,51 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/django_extensions/conf/app_template
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+views.py.tmpl
+file
+
+
+
+add
+
+__init__.py.tmpl
+file
+
+
+
+add
+
+models.py.tmpl
+file
+
+
+
+add
+
+urls.py.tmpl
+file
+
+
+
+add
+
+forms.py.tmpl
+file
+
+
+
+add
+

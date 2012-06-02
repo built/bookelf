@@ -1,0 +1,30 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/Genshi-0.5.1/examples/bench/myghty
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+base.myt
+file
+
+
+
+add
+
+template.myt
+file
+
+
+
+add
+

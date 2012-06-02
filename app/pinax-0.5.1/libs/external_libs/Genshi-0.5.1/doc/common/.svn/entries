@@ -1,0 +1,58 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/Genshi-0.5.1/doc/common
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+style
+dir
+
+
+
+add
+
+conf
+dir
+
+
+
+add
+
+COPYING
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+doctools.py
+file
+
+
+
+add
+
+template.html
+file
+
+
+
+add
+

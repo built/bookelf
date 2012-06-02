@@ -1,0 +1,233 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/docutils
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+parsers
+dir
+
+
+
+add
+
+core.py
+file
+
+
+
+add
+
+core.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+readers
+dir
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+utils.py
+file
+
+
+
+add
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+utils.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+statemachine.py
+file
+
+
+
+add
+
+io.py
+file
+
+
+
+add
+
+transforms
+dir
+
+
+
+add
+
+urischemes.py
+file
+
+
+
+add
+
+nodes.py
+file
+
+
+
+add
+
+statemachine.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+writers
+dir
+
+
+
+add
+
+io.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+urischemes.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+nodes.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+examples.py
+file
+
+
+
+add
+
+languages
+dir
+
+
+
+add
+
+frontend.py
+file
+
+
+
+add
+
+frontend.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+docutils.conf
+file
+
+
+
+add
+

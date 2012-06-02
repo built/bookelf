@@ -1,0 +1,135 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/python-twitter-0.5/testdata
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+status-destroy.json
+file
+
+
+
+add
+
+followers.json
+file
+
+
+
+add
+
+show-dewitt.json
+file
+
+
+
+add
+
+update.json
+file
+
+
+
+add
+
+friendship-destroy.json
+file
+
+
+
+add
+
+direct_messages-new.json
+file
+
+
+
+add
+
+show-89512102.json
+file
+
+
+
+add
+
+user_timeline-kesuke.json
+file
+
+
+
+add
+
+friends.json
+file
+
+
+
+add
+
+friendship-create.json
+file
+
+
+
+add
+
+featured.json
+file
+
+
+
+add
+
+direct_messages.json
+file
+
+
+
+add
+
+replies.json
+file
+
+
+
+add
+
+public_timeline.json
+file
+
+
+
+add
+
+user_timeline.json
+file
+
+
+
+add
+
+friends_timeline-kesuke.json
+file
+
+
+
+add
+
+direct_message-destroy.json
+file
+
+
+
+add
+

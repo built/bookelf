@@ -1,0 +1,37 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/Genshi-0.5.1/examples/bench/mako
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+footer.html
+file
+
+
+
+add
+
+header.html
+file
+
+
+
+add
+
+template.html
+file
+
+
+
+add
+

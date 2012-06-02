@@ -1,0 +1,34 @@
+{% extends "site_base.html" %}
+
+{% load i18n %}
+
+{% block head_title %}{% trans "Loan A Book" %}{% endblock %}
+
+{% block body %}
+
+	<h3>{% trans "Loan A Book" %}</h3>
+
+
+	{% if not ownership %}
+	No matching book was found.
+	{% else %}
+	<form method="post" action=".">	
+	You're loaning "{{ ownership.item.title }}" <br/>
+	Please select the person you'd like to loan it to:
+
+	<select name="borrower">
+		{% for user in users %}
+		<option>{{user.username}}</option>
+		{% endfor %}		
+	</select>
+	
+	<input type="submit" value="Loan It"/>
+	
+	</form>
+	
+	{% endif %}
+
+
+
+
+{% endblock %}

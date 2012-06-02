@@ -1,0 +1,50 @@
+{% extends "site_base.html" %}
+
+{% load i18n %}
+
+{% block head_title %}{% trans "My Books" %}{% endblock %}
+
+{% block body %}
+
+	<h3>{% trans "My Books (and other items)" %}</h3>
+
+	{% if not items.paginator.count %}
+	
+	You don't have any books in your library. Please add some!
+
+	{% else %}
+	
+	<p>You have {{ items.paginator.count }} items in your library.  (Showing up to {{ items.paginator.per_page }} items at a time.)</p>
+
+	<div class="pagination">
+	    <span class="step-links">
+	        {% if items.has_previous %}
+	            <a href="?page={{ items.previous_page_number }}">previous</a>
+	        {% endif %}
+
+	        <span class="current">
+	            Page {{ items.number }} of {{ items.paginator.num_pages }}
+	        </span>
+
+	        {% if items.has_next %}
+	            <a href="?page={{ items.next_page_number }}">next</a>
+	        {% endif %}
+	    </span>
+	</div>
+
+
+	<style>.loaned { font-weight: bold; font-size: .75em; color: lightsteelblue;}</style>
+		{% for owned_item in items.object_list %}
+		
+		<li><a href="../../book/isbn/{{ owned_item.item.isbn }}">{{ owned_item.item.title }}</a>&nbsp;{% if owned_item.medialoan %}<span class="loaned">LOANED OUT</span>{% endif %}</li>
+
+		{% endfor %}
+
+
+	
+	{% endif %}
+
+	<p><a href="../../book/add/">Add An Item</a>
+	</p>
+
+{% endblock %}

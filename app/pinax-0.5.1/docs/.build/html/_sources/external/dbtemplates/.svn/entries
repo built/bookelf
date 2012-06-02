@@ -1,0 +1,30 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/docs/.build/html/_sources/external/dbtemplates
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+overview.txt
+file
+
+
+
+add
+
+index.txt
+file
+
+
+
+add
+

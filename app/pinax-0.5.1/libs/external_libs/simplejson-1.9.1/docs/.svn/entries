@@ -1,0 +1,93 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/simplejson-1.9.1/docs
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+rst.css
+file
+
+
+
+add
+
+class-simplejson.JSONEncoder.html
+file
+
+
+
+add
+
+class_to_source.js
+file
+
+
+
+add
+
+simplejson
+dir
+
+
+
+add
+
+layout.css
+file
+
+
+
+add
+
+class-simplejson.JSONDecoder.html
+file
+
+
+
+add
+
+module-simplejson.html
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+pudge.css
+file
+
+
+
+add
+
+module-index.html
+file
+
+
+
+add
+
+module-simplejson-index.html
+file
+
+
+
+add
+

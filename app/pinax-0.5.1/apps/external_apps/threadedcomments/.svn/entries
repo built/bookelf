@@ -1,0 +1,198 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/threadedcomments
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+urls.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+admin.py
+file
+
+
+
+add
+
+forms.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+admin.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+views.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+utils.py
+file
+
+
+
+add
+
+views.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+moderation.py
+file
+
+
+
+add
+
+tests.py
+file
+
+
+
+add
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+templatetags
+dir
+
+
+
+add
+
+utils.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+templates
+dir
+
+
+
+add
+
+models.py
+file
+
+
+
+add
+
+urls.py
+file
+
+
+
+add
+
+management
+dir
+
+
+
+add
+
+models.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+forms.py
+file
+
+
+
+add
+

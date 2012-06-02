@@ -1,0 +1,324 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/python-openid-2.1.1/openid/test
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+linkparse.py
+file
+
+
+
+add
+
+test_association_response.py
+file
+
+
+
+add
+
+test_consumer.py
+file
+
+
+
+add
+
+storetest.py
+file
+
+
+
+add
+
+test_parsehtml.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+cryptutil.py
+file
+
+
+
+add
+
+test_sreg.py
+file
+
+
+
+add
+
+test_nonce.py
+file
+
+
+
+add
+
+test_xri.py
+file
+
+
+
+add
+
+test_htmldiscover.py
+file
+
+
+
+add
+
+test_fetchers.py
+file
+
+
+
+add
+
+test_rpverify.py
+file
+
+
+
+add
+
+test_openidyadis.py
+file
+
+
+
+add
+
+test_ax.py
+file
+
+
+
+add
+
+discoverdata.py
+file
+
+
+
+add
+
+test_association.py
+file
+
+
+
+add
+
+trustroot.txt
+file
+
+
+
+add
+
+test_examples.py
+file
+
+
+
+add
+
+test_discover.py
+file
+
+
+
+add
+
+test_negotiation.py
+file
+
+
+
+add
+
+linkparse.txt
+file
+
+
+
+add
+
+data
+dir
+
+
+
+add
+
+urinorm.txt
+file
+
+
+
+add
+
+test_pape.py
+file
+
+
+
+add
+
+test_etxrd.py
+file
+
+
+
+add
+
+trustroot.py
+file
+
+
+
+add
+
+test_urinorm.py
+file
+
+
+
+add
+
+dh.py
+file
+
+
+
+add
+
+test_accept.py
+file
+
+
+
+add
+
+kvform.py
+file
+
+
+
+add
+
+n2b64
+file
+
+
+
+add
+
+test_symbol.py
+file
+
+
+
+add
+
+dhpriv
+file
+
+
+
+add
+
+test_server.py
+file
+
+
+
+add
+
+test_yadis_discover.py
+file
+
+
+
+add
+
+test_auth_request.py
+file
+
+
+
+add
+
+oidutil.py
+file
+
+
+
+add
+
+test_xrires.py
+file
+
+
+
+add
+
+support.py
+file
+
+
+
+add
+
+datadriven.py
+file
+
+
+
+add
+
+test_services.py
+file
+
+
+
+add
+
+test_message.py
+file
+
+
+
+add
+
+test_verifydisco.py
+file
+
+
+
+add
+

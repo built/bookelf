@@ -1,0 +1,44 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/Creoleparser-0.5.0/creoleparser
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+core.py
+file
+
+
+
+add
+
+dialects.py
+file
+
+
+
+add
+
+elements.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+

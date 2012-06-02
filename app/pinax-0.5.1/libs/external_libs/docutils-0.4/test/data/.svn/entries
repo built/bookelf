@@ -1,0 +1,100 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/test/data
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+config_list_2.txt
+file
+
+
+
+add
+
+config_old.txt
+file
+
+
+
+add
+
+csv_dep.txt
+file
+
+
+
+add
+
+include.txt
+file
+
+
+
+add
+
+csv_data.txt
+file
+
+
+
+add
+
+config_1.txt
+file
+
+
+
+add
+
+config_2.txt
+file
+
+
+
+add
+
+dependencies.txt
+file
+
+
+
+add
+
+raw.txt
+file
+
+
+
+add
+
+stylesheet.txt
+file
+
+
+
+add
+
+config_error_handler.txt
+file
+
+
+
+add
+
+config_list.txt
+file
+
+
+
+add
+

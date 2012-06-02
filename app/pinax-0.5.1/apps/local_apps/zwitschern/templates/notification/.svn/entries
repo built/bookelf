@@ -1,0 +1,30 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/local_apps/zwitschern/templates/notification
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+tweet_reply_received
+dir
+
+
+
+add
+
+tweet_follow
+dir
+
+
+
+add
+

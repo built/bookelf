@@ -1,0 +1,765 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/feedparser-4.1/docs
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+reference-entry-enclosures.html
+file
+
+
+
+add
+
+namespace-handling.html
+file
+
+
+
+add
+
+annotated-atom03.html
+file
+
+
+
+add
+
+date-parsing.html
+file
+
+
+
+add
+
+http-redirect.html
+file
+
+
+
+add
+
+reference-feed-image.html
+file
+
+
+
+add
+
+reference-feed-license.html
+file
+
+
+
+add
+
+reference-status.html
+file
+
+
+
+add
+
+reference-entry-comments.html
+file
+
+
+
+add
+
+basic.html
+file
+
+
+
+add
+
+reference-bozo_exception.html
+file
+
+
+
+add
+
+reference-feed-generator.html
+file
+
+
+
+add
+
+reference-entry-publisher.html
+file
+
+
+
+add
+
+annotated-examples.html
+file
+
+
+
+add
+
+uncommon-atom.html
+file
+
+
+
+add
+
+reference-entry-source.html
+file
+
+
+
+add
+
+reference-entry-created_parsed.html
+file
+
+
+
+add
+
+common-atom-elements.html
+file
+
+
+
+add
+
+uncommon-rss.html
+file
+
+
+
+add
+
+reference-entry-content.html
+file
+
+
+
+add
+
+basic-existence.html
+file
+
+
+
+add
+
+reference-entry-publisher_detail.html
+file
+
+
+
+add
+
+reference-namespaces.html
+file
+
+
+
+add
+
+reference-entry-title.html
+file
+
+
+
+add
+
+reference-feed-publisher_detail.html
+file
+
+
+
+add
+
+reference-modified.html
+file
+
+
+
+add
+
+reference-feed-links.html
+file
+
+
+
+add
+
+reference-entry-author_detail.html
+file
+
+
+
+add
+
+reference-entry-updated.html
+file
+
+
+
+add
+
+introduction.html
+file
+
+
+
+add
+
+reference-version.html
+file
+
+
+
+add
+
+license.html
+file
+
+
+
+add
+
+annotated-rss20.html
+file
+
+
+
+add
+
+reference-entry-summary.html
+file
+
+
+
+add
+
+reference-entry-tags.html
+file
+
+
+
+add
+
+changes-40.html
+file
+
+
+
+add
+
+reference-feed-tags.html
+file
+
+
+
+add
+
+http-authentication.html
+file
+
+
+
+add
+
+reference-entry-author.html
+file
+
+
+
+add
+
+reference-entry-title_detail.html
+file
+
+
+
+add
+
+http-other.html
+file
+
+
+
+add
+
+reference-feed-author.html
+file
+
+
+
+add
+
+reference-feed.html
+file
+
+
+
+add
+
+atom-detail.html
+file
+
+
+
+add
+
+reference-feed-title_detail.html
+file
+
+
+
+add
+
+reference-feed-ttl.html
+file
+
+
+
+add
+
+reference-bozo.html
+file
+
+
+
+add
+
+advanced.html
+file
+
+
+
+add
+
+reference-feed-generator_detail.html
+file
+
+
+
+add
+
+annotated-rss20-dc.html
+file
+
+
+
+add
+
+reference-feed-errorreportsto.html
+file
+
+
+
+add
+
+bozo.html
+file
+
+
+
+add
+
+reference-entry-summary_detail.html
+file
+
+
+
+add
+
+reference-entry-published.html
+file
+
+
+
+add
+
+reference-etag.html
+file
+
+
+
+add
+
+reference-entry-license.html
+file
+
+
+
+add
+
+http.html
+file
+
+
+
+add
+
+reference-feed-rights_detail.html
+file
+
+
+
+add
+
+reference-feed-language.html
+file
+
+
+
+add
+
+reference-feed-icon.html
+file
+
+
+
+add
+
+reference-entry-id.html
+file
+
+
+
+add
+
+reference-entry-contributors.html
+file
+
+
+
+add
+
+reference-feed-info.html
+file
+
+
+
+add
+
+reference-feed-id.html
+file
+
+
+
+add
+
+changes-41.html
+file
+
+
+
+add
+
+reference-feed-contributors.html
+file
+
+
+
+add
+
+reference-feed-publisher.html
+file
+
+
+
+add
+
+http-etag.html
+file
+
+
+
+add
+
+reference-feed-rights.html
+file
+
+
+
+add
+
+reference.html
+file
+
+
+
+add
+
+version-detection.html
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+common-rss-elements.html
+file
+
+
+
+add
+
+reference-entry-published_parsed.html
+file
+
+
+
+add
+
+reference-entry-links.html
+file
+
+
+
+add
+
+annotated-atom10.html
+file
+
+
+
+add
+
+html-sanitization.html
+file
+
+
+
+add
+
+reference-feed-title.html
+file
+
+
+
+add
+
+reference-entry-updated_parsed.html
+file
+
+
+
+add
+
+character-encoding.html
+file
+
+
+
+add
+
+reference-href.html
+file
+
+
+
+add
+
+reference-feed-author_detail.html
+file
+
+
+
+add
+
+reference-feed-updated_parsed.html
+file
+
+
+
+add
+
+reference-encoding.html
+file
+
+
+
+add
+
+annotated-rss10.html
+file
+
+
+
+add
+
+reference-feed-updated.html
+file
+
+
+
+add
+
+css
+dir
+
+
+
+add
+
+reference-feed-docs.html
+file
+
+
+
+add
+
+reference-entry-link.html
+file
+
+
+
+add
+
+reference-feed-info-detail.html
+file
+
+
+
+add
+
+reference-feed-subtitle.html
+file
+
+
+
+add
+
+reference-entry-expired_parsed.html
+file
+
+
+
+add
+
+reference-feed-link.html
+file
+
+
+
+add
+
+reference-entry-expired.html
+file
+
+
+
+add
+
+reference-entry.html
+file
+
+
+
+add
+
+reference-feed-logo.html
+file
+
+
+
+add
+
+content-normalization.html
+file
+
+
+
+add
+
+resolving-relative-links.html
+file
+
+
+
+add
+
+history.html
+file
+
+
+
+add
+
+reference-feed-textinput.html
+file
+
+
+
+add
+
+reference-entry-created.html
+file
+
+
+
+add
+
+reference-feed-cloud.html
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+reference-headers.html
+file
+
+
+
+add
+
+http-useragent.html
+file
+
+
+
+add
+
+reference-feed-subtitle_detail.html
+file
+
+
+
+add
+
+examples
+dir
+
+
+
+add
+

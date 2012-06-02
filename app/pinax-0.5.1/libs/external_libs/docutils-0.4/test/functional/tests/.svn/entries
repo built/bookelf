@@ -1,0 +1,121 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/test/functional/tests
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+pep_html.py
+file
+
+
+
+add
+
+standalone_rst_s5_html_1.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+standalone_rst_s5_html_2.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+standalone_rst_latex.py
+file
+
+
+
+add
+
+latex_docinfo.py
+file
+
+
+
+add
+
+standalone_rst_pseudoxml.py
+file
+
+
+
+add
+
+field_name_limit.py
+file
+
+
+
+add
+
+standalone_rst_html4css1.py
+file
+
+
+
+add
+
+_default.py
+file
+
+
+
+add
+
+compact_lists.py
+file
+
+
+
+add
+
+misc_rst_html4css1.py
+file
+
+
+
+add
+
+_standalone_rst_defaults.py
+file
+
+
+
+add
+
+dangerous.py
+file
+
+
+
+add
+

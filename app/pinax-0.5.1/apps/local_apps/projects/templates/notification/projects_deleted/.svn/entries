@@ -1,0 +1,30 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/local_apps/projects/templates/notification/projects_deleted
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+full.txt
+file
+
+
+
+add
+
+notice.html
+file
+
+
+
+add
+

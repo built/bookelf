@@ -1,0 +1,212 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/projects/complete_project/templates
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+blog
+dir
+
+
+
+add
+
+profiles
+dir
+
+
+
+add
+
+notification
+dir
+
+
+
+add
+
+threadedcomments
+dir
+
+
+
+add
+
+homepage.html
+file
+
+
+
+add
+
+bookmarks
+dir
+
+
+
+add
+
+tribes
+dir
+
+
+
+add
+
+projects
+dir
+
+
+
+add
+
+friends_app
+dir
+
+
+
+add
+
+friends
+dir
+
+
+
+add
+
+account
+dir
+
+
+
+add
+
+things
+dir
+
+
+
+add
+
+swaps
+dir
+
+
+
+add
+
+tags
+dir
+
+
+
+add
+
+emailconfirmation
+dir
+
+
+
+add
+
+zwitschern
+dir
+
+
+
+add
+
+feedutil
+dir
+
+
+
+add
+
+site_base.html
+file
+
+
+
+add
+
+wiki
+dir
+
+
+
+add
+
+messages
+dir
+
+
+
+add
+
+500.html
+file
+
+
+
+add
+
+about
+dir
+
+
+
+add
+
+404.html
+file
+
+
+
+add
+
+photos
+dir
+
+
+
+add
+
+base.html
+file
+
+
+
+add
+
+announcements
+dir
+
+
+
+add
+
+avatar
+dir
+
+
+
+add
+
+openid
+dir
+
+
+
+add
+

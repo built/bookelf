@@ -1,0 +1,93 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/docutils/writers
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+null.py
+file
+
+
+
+add
+
+html4css1
+dir
+
+
+
+add
+
+latex2e
+dir
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+pseudoxml.py
+file
+
+
+
+add
+
+pep_html
+dir
+
+
+
+add
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+s5_html
+dir
+
+
+
+add
+
+docutils_xml.py
+file
+
+
+
+add
+
+newlatex2e
+dir
+
+
+
+add
+

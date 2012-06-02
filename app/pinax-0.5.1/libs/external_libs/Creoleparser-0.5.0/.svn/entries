@@ -1,0 +1,86 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/Creoleparser-0.5.0
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Creoleparser.egg-info
+dir
+
+
+
+add
+
+LICENSE.txt
+file
+
+
+
+add
+
+INSTALL.txt
+file
+
+
+
+add
+
+CHANGES.txt
+file
+
+
+
+add
+
+creoleparser
+dir
+
+
+
+add
+
+setup.py
+file
+
+
+
+add
+
+PKG-INFO
+file
+
+
+
+add
+
+MANIFEST.in
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+setup.cfg
+file
+
+
+
+add
+

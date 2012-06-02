@@ -1,0 +1,156 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/Pygments-0.11.1/docs/src
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+installation.txt
+file
+
+
+
+add
+
+lexers.txt
+file
+
+
+
+add
+
+tokens.txt
+file
+
+
+
+add
+
+formatterdevelopment.txt
+file
+
+
+
+add
+
+index.txt
+file
+
+
+
+add
+
+rstdirective.txt
+file
+
+
+
+add
+
+filters.txt
+file
+
+
+
+add
+
+api.txt
+file
+
+
+
+add
+
+cmdline.txt
+file
+
+
+
+add
+
+plugins.txt
+file
+
+
+
+add
+
+lexerdevelopment.txt
+file
+
+
+
+add
+
+integrate.txt
+file
+
+
+
+add
+
+styles.txt
+file
+
+
+
+add
+
+moinmoin.txt
+file
+
+
+
+add
+
+authors.txt
+file
+
+
+
+add
+
+formatters.txt
+file
+
+
+
+add
+
+unicode.txt
+file
+
+
+
+add
+
+changelog.txt
+file
+
+
+
+add
+
+filterdevelopment.txt
+file
+
+
+
+add
+
+quickstart.txt
+file
+
+
+
+add
+

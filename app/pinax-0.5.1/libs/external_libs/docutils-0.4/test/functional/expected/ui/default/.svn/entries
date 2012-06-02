@@ -1,0 +1,93 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/test/functional/expected/ui/default
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+print.css
+file
+
+
+
+add
+
+s5-core.css
+file
+
+
+
+add
+
+iepngfix.htc
+file
+
+
+
+add
+
+outline.css
+file
+
+
+
+add
+
+framing.css
+file
+
+
+
+add
+
+slides.css
+file
+
+
+
+add
+
+blank.gif
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+opera.css
+file
+
+
+
+add
+
+pretty.css
+file
+
+
+
+add
+
+slides.js
+file
+
+
+
+add
+

@@ -1,0 +1,107 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/pagination
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+locale
+dir
+
+
+
+add
+
+middleware.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+middleware.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+tests.py
+file
+
+
+
+add
+
+models.py
+file
+
+
+
+add
+
+templatetags
+dir
+
+
+
+add
+
+models.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+templates
+dir
+
+
+
+add
+

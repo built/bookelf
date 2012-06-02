@@ -1,0 +1,65 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/local_apps/blog/templatetags
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+__init__.py
+file
+
+
+
+add
+
+blog_tags.py
+file
+
+
+
+add
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+blog.py
+file
+
+
+
+add
+
+blog_tags.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

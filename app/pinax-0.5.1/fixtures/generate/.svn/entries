@@ -1,0 +1,58 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/fixtures/generate
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+friends.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+zwitschern.py
+file
+
+
+
+add
+
+auth.py
+file
+
+
+
+add
+
+profiles.py
+file
+
+
+
+add
+
+run.py
+file
+
+
+
+add
+

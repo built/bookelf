@@ -1,0 +1,51 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/docutils-0.4/test/test_readers/test_pep
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+test_inline_markup.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+__init__.py
+file
+
+
+
+add
+
+test_rfc2822.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

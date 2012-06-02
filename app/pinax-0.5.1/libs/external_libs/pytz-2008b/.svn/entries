@@ -1,0 +1,79 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/pytz-2008b
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+LICENSE.txt
+file
+
+
+
+add
+
+pytz.egg-info
+dir
+
+
+
+add
+
+CHANGES.txt
+file
+
+
+
+add
+
+pytz
+dir
+
+
+
+add
+
+setup.py
+file
+
+
+
+add
+
+PKG-INFO
+file
+
+
+
+add
+
+MANIFEST.in
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+setup.cfg
+file
+
+
+
+add
+

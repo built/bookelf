@@ -1,0 +1,179 @@
+8
+
+dir
+88
+https://r.builtsoftware.com/virtlib/trunk
+https://r.builtsoftware.com
+
+
+
+2009-07-25T17:07:26.420365Z
+88
+built
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7f6cac43-a787-4b98-af29-a9f0f6ef2a4b
+
+manage.py
+file
+89
+
+
+
+2009-07-25T22:30:42.000000Z
+d0e339f1e836bd3c2bcc9eb8f6d5bbf2
+2009-07-25T23:07:46.230872Z
+89
+built
+has-props
+
+urls.pyc
+file
+
+
+
+
+2009-07-25T20:02:00.000000Z
+3f7b148fc3be3f7aea3192a601eb3187
+2009-07-25T17:07:26.420365Z
+88
+built
+has-props
+
+__init__.py
+file
+
+
+
+
+2009-07-25T20:02:00.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-07-25T17:07:26.420365Z
+88
+built
+
+settings.py
+file
+
+
+
+
+2009-07-25T20:02:00.000000Z
+35e15e2be1557a5650b1f7fee2a18375
+2009-07-25T17:07:26.420365Z
+88
+built
+
+__init__.pyc
+file
+
+
+
+
+2009-07-25T20:02:00.000000Z
+1196b1897260535a86ecb250f1c97761
+2009-07-25T17:07:26.420365Z
+88
+built
+has-props
+
+settings.pyc
+file
+
+
+
+
+2009-07-25T20:02:00.000000Z
+bd27f27bfc8a90be7b9c06c24c551481
+2009-07-25T17:07:26.420365Z
+88
+built
+has-props
+
+book
+dir
+
+deploy
+dir
+
+templates
+dir
+
+dev.db
+file
+
+
+
+
+2009-07-25T20:02:00.000000Z
+bdf60f5a8e371e51dc9946b36ebcc655
+2009-07-25T17:07:26.420365Z
+88
+built
+has-props
+
+apps
+dir
+
+site_media
+dir
+
+library
+dir
+
+built.py
+file
+
+
+
+
+2009-07-25T20:02:00.000000Z
+ca68d4f12a1c217c54af85dac671de52
+2009-07-25T17:07:26.420365Z
+88
+built
+
+built.pyc
+file
+
+
+
+
+2009-07-25T20:02:00.000000Z
+f16617d05053054d5bc3b6b1d46c33c8
+2009-07-25T17:07:26.420365Z
+88
+built
+has-props
+
+urls.py
+file
+
+
+
+
+2009-07-25T20:02:00.000000Z
+6ba18a905f3055162a85cf4ba84d8227
+2009-07-25T17:07:26.420365Z
+88
+built
+
+pinax-0.5.1
+dir
+
+
+
+add
+

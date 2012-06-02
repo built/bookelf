@@ -1,0 +1,58 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/apps/external_apps/pagination/templatetags
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+pagination_tags.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+__init__.py
+file
+
+
+
+add
+
+__init__.pyc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+pagination_tags.py
+file
+
+
+
+add
+

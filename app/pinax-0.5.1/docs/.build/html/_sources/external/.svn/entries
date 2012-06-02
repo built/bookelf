@@ -1,0 +1,100 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/docs/.build/html/_sources/external
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+emailconfirmation
+dir
+
+
+
+add
+
+sources.txt
+file
+
+
+
+add
+
+dbtemplates
+dir
+
+
+
+add
+
+notification
+dir
+
+
+
+add
+
+threadedcomments
+dir
+
+
+
+add
+
+robots
+dir
+
+
+
+add
+
+flag
+dir
+
+
+
+add
+
+mailer
+dir
+
+
+
+add
+
+pagination
+dir
+
+
+
+add
+
+ajax-validation
+dir
+
+
+
+add
+
+oembed
+dir
+
+
+
+add
+
+timezones
+dir
+
+
+
+add
+

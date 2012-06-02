@@ -1,0 +1,751 @@
+8
+
+dir
+0
+https://r.builtsoftware.com/virtlib/trunk/pinax-0.5.1/libs/external_libs/python-yadis-1.1.0/doc/api
+https://r.builtsoftware.com
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+yadis.parsehtml.MetaNotFound-class.html
+file
+
+
+
+add
+
+yadis.services-module.html
+file
+
+
+
+add
+
+yadis.test.test_xri.XriTransformationTestCase-class.html
+file
+
+
+
+add
+
+yadis.filters.IFilter-class.html
+file
+
+
+
+add
+
+yadis.test.test_discover.TestSecondGet-class.html
+file
+
+
+
+add
+
+yadis.test.test_etxrd.TestCanonicalID-class.html
+file
+
+
+
+add
+
+module-tree.html
+file
+
+
+
+add
+
+yadis.test.livediscover-pysrc.html
+file
+
+
+
+add
+
+yadis.discover-pysrc.html
+file
+
+
+
+add
+
+yadis.test-pysrc.html
+file
+
+
+
+add
+
+yadis.test.test_discover-module.html
+file
+
+
+
+add
+
+help.html
+file
+
+
+
+add
+
+yadis.etxrd.XRDSError-class.html
+file
+
+
+
+add
+
+toc-yadis.test.test_parsehtml-module.html
+file
+
+
+
+add
+
+yadis.test.test_etxrd.TestServiceParser-class.html
+file
+
+
+
+add
+
+yadis.test.livediscover.DiscoverTestCase-class.html
+file
+
+
+
+add
+
+yadis.test.test_parsehtml._TestCase-class.html
+file
+
+
+
+add
+
+yadis.test.test_xri.XriEscapingTestCase-class.html
+file
+
+
+
+add
+
+yadis.test.test_accept.MatchAcceptTest-class.html
+file
+
+
+
+add
+
+toc-yadis.test.discoverdata-module.html
+file
+
+
+
+add
+
+yadis.accept-pysrc.html
+file
+
+
+
+add
+
+yadis.test.test_xrires.ProxyQueryTestCase-class.html
+file
+
+
+
+add
+
+yadis.test.test_parsehtml-module.html
+file
+
+
+
+add
+
+toc-yadis.test.test_discover-module.html
+file
+
+
+
+add
+
+todo-index.html
+file
+
+
+
+add
+
+yadis.test-module.html
+file
+
+
+
+add
+
+toc-yadis.parsehtml-module.html
+file
+
+
+
+add
+
+yadis.filters-pysrc.html
+file
+
+
+
+add
+
+yadis.etxrd-module.html
+file
+
+
+
+add
+
+yadis.xrires-pysrc.html
+file
+
+
+
+add
+
+yadis.filters.TransformFilterMaker-class.html
+file
+
+
+
+add
+
+yadis.etxrd._Max-class.html
+file
+
+
+
+add
+
+yadis.test.test_xrires-module.html
+file
+
+
+
+add
+
+yadis.filters.BasicServiceEndpoint-class.html
+file
+
+
+
+add
+
+yadis.test.test_discover.TestFetcher-class.html
+file
+
+
+
+add
+
+yadis.test.test_xri-pysrc.html
+file
+
+
+
+add
+
+yadis.test.test_xri.TestGetRootAuthority-class.html
+file
+
+
+
+add
+
+toc-yadis.manager-module.html
+file
+
+
+
+add
+
+yadis.accept-module.html
+file
+
+
+
+add
+
+toc-yadis.constants-module.html
+file
+
+
+
+add
+
+epydoc.js
+file
+
+
+
+add
+
+yadis.etxrd-pysrc.html
+file
+
+
+
+add
+
+yadis.discover.DiscoveryResult-class.html
+file
+
+
+
+add
+
+exceptions.AssertionError-class.html
+file
+
+
+
+add
+
+yadis.manager-module.html
+file
+
+
+
+add
+
+toc-everything.html
+file
+
+
+
+add
+
+epydoc.css
+file
+
+
+
+add
+
+yadis.test.livediscover-module.html
+file
+
+
+
+add
+
+yadis.manager.YadisServiceManager-class.html
+file
+
+
+
+add
+
+yadis.test.test_discover.TestSecondGet.MockFetcher-class.html
+file
+
+
+
+add
+
+yadis.test.test_etxrd-pysrc.html
+file
+
+
+
+add
+
+yadis.test.test_xri-module.html
+file
+
+
+
+add
+
+yadis.filters.CompoundFilter-class.html
+file
+
+
+
+add
+
+toc-yadis.accept-module.html
+file
+
+
+
+add
+
+frames.html
+file
+
+
+
+add
+
+yadis.test.test_discover.QuitServer-class.html
+file
+
+
+
+add
+
+toc-yadis-module.html
+file
+
+
+
+add
+
+yadis.test.test_xri.XriDiscoveryTestCase-class.html
+file
+
+
+
+add
+
+yadis.manager-pysrc.html
+file
+
+
+
+add
+
+toc-yadis.xri-module.html
+file
+
+
+
+add
+
+toc-yadis.test.test_etxrd-module.html
+file
+
+
+
+add
+
+yadis.constants-pysrc.html
+file
+
+
+
+add
+
+yadis.test.test_accept-pysrc.html
+file
+
+
+
+add
+
+toc-yadis.filters-module.html
+file
+
+
+
+add
+
+identifier-index.html
+file
+
+
+
+add
+
+crarr.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+yadis.xrires.ProxyResolver-class.html
+file
+
+
+
+add
+
+toc-yadis.test.test_accept-module.html
+file
+
+
+
+add
+
+yadis-module.html
+file
+
+
+
+add
+
+toc-yadis.discover-module.html
+file
+
+
+
+add
+
+yadis.xri-module.html
+file
+
+
+
+add
+
+yadis.test.test_etxrd-module.html
+file
+
+
+
+add
+
+yadis.test.test_xrires-pysrc.html
+file
+
+
+
+add
+
+toc-yadis.services-module.html
+file
+
+
+
+add
+
+class-tree.html
+file
+
+
+
+add
+
+yadis.filters-module.html
+file
+
+
+
+add
+
+toc-yadis.etxrd-module.html
+file
+
+
+
+add
+
+yadis.parsehtml-pysrc.html
+file
+
+
+
+add
+
+yadis.xrires-module.html
+file
+
+
+
+add
+
+yadis.xri-pysrc.html
+file
+
+
+
+add
+
+yadis.test.test_discover._TestCase-class.html
+file
+
+
+
+add
+
+yadis.test.discoverdata-module.html
+file
+
+
+
+add
+
+yadis.test.test_parsehtml-pysrc.html
+file
+
+
+
+add
+
+yadis.parsehtml.YadisHTMLParser-class.html
+file
+
+
+
+add
+
+toc.html
+file
+
+
+
+add
+
+yadis.parsehtml.ParseDone-class.html
+file
+
+
+
+add
+
+yadis.services-pysrc.html
+file
+
+
+
+add
+
+yadis.parsehtml-module.html
+file
+
+
+
+add
+
+toc-yadis.test.livediscover-module.html
+file
+
+
+
+add
+
+toc-yadis.xrires-module.html
+file
+
+
+
+add
+
+yadis.manager.Discovery-class.html
+file
+
+
+
+add
+
+yadis.test.discoverdata-pysrc.html
+file
+
+
+
+add
+
+toc-yadis.test-module.html
+file
+
+
+
+add
+
+toc-yadis.test.test_xri-module.html
+file
+
+
+
+add
+
+yadis.test.test_xri.CanonicalIDTest-class.html
+file
+
+
+
+add
+
+yadis.test.test_discover-pysrc.html
+file
+
+
+
+add
+
+yadis.etxrd.XRDSFraud-class.html
+file
+
+
+
+add
+
+yadis.discover.DiscoveryFailure-class.html
+file
+
+
+
+add
+
+yadis.constants-module.html
+file
+
+
+
+add
+
+yadis-pysrc.html
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+toc-yadis.test.test_xrires-module.html
+file
+
+
+
+add
+
+yadis.test.test_accept-module.html
+file
+
+
+
+add
+
+yadis.discover-module.html
+file
+
+
+
+add
+

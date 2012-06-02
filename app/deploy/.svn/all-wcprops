@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/88/virtlib/trunk/deploy
+END
+basic_project.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/88/virtlib/trunk/deploy/basic_project.wsgi
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/88/virtlib/trunk/deploy/__init__.py
+END
+modpython.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/88/virtlib/trunk/deploy/modpython.py
+END
