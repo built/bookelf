@@ -9,6 +9,9 @@ def index(request):
 from django.contrib import admin
 admin.autodiscover()
 
+# API resources
+from belf.api import SchoolResource, NeedResource
+
 urlpatterns = patterns('',
     # Examples:
     url(r'^$', index, name='home'),
@@ -19,4 +22,7 @@ urlpatterns = patterns('',
 
     # Uncomment the next line to enable the admin:
     url(r'^admin/', include(admin.site.urls)),
+
+    url(r'^api/', include(SchoolResource().urls)),
+    url(r'^api/', include(NeedResource().urls))
 )
