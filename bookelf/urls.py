@@ -2,7 +2,7 @@ from django.conf.urls import patterns, include, url
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse('<img src="/static_media/Book-72.png"><br> Welcome to Book Elf")
+    return HttpResponse('<img src="/static_media/Book-72.png"><br> Welcome to Book Elf')
 
 
 # Uncomment the next two lines to enable the admin:
